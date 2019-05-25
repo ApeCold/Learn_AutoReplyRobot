@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Learn_AutoReplyRobot</string>
+    <string name="serviceName">聊天机器人</string>
+    <string name="description">这是一个很神奇的功能，下面的按钮你得开</string>
+</resources>
